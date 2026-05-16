@@ -5,8 +5,8 @@ theme:
   name: 'readthedocs'
   custom_dir: 'theme'
   navigation_depth: 2
-repo_url: https://github.com/s0l0guy/SuperNOVA-Wiki
-edit_uri: https://github.com/s0l0guy/SuperNOVA-Wiki/edit/main
+repo_url: https://github.com/S0L0GUY/SuperNOVA-Wiki
+edit_uri: https://github.com/S0L0GUY/SuperNOVA-Wiki/edit/main
 site_author: Evan Grinnell
 markdown_extensions:
   - admonition
